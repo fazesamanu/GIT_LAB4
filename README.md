@@ -1,11 +1,13 @@
 
 # Vector Dot-Product
 
-This README file provides an example of calculating the dot product of two vectors using code, a mathematical explanation, and a comparison of algorithm versions.
+This README file provides an example of calculating the dot product 
+of two vectors using code, a mathematical explanation, and a comparison of algorithm versions.
 
 ## What is a Dot Product?
 
->The dot product is an operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. Mathematically, for two vectors **A** and **B** of length *n* :
+>The dot product is an operation that takes two equal-length sequences of numbers
+> (usually coordinate vectors) and returns a single number. Mathematically, for two vectors **A** and **B** of length *n* :
 
 
 *a⋅b = ∑<sup>n</sup><sub>i=1</sub>a<sub>i</sub>b<sub>i</sub>*
