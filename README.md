@@ -5,12 +5,10 @@ This README file provides an example of calculating the dot product of two vecto
 
 ## What is a Dot Product?
 
-The dot product is an operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. Mathematically, for two vectors **A** and **B** of length *n*:
+>The dot product is an operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. Mathematically, for two vectors **A** and **B** of length *n* :
 
-\[
-\text{Dot Product} = \sum_{i=1}^{n} A_i \times B_i
-\]
 
+*a⋅b = ∑<sup>n</sup><sub>i=1</sub>a<sub>i</sub>b<sub>i</sub>*
 ## Example Code
 
 Here’s an example code snippet in Python to compute the dot product:
@@ -31,10 +29,8 @@ print("Dot Product:", result)
 - **Output**: The dot product, calculated as the sum of element-wise products.
 
 ## Diagram
-
 Below is a visual representation of the dot product operation.
-
-![Dot Product Diagram](https://example.com/dot-product-diagram.png) <!-- Replace this URL with your actual image URL -->
+![Dot Product Diagram](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/geometrical-meaning-of-dot-product-1626103065.png) 
 
 ## Table: Algorithm Comparison
 
@@ -50,6 +46,23 @@ Below is a visual representation of the dot product operation.
 - [x] Add mathematical explanation
 - [ ] Test with additional vector sizes
 - [ ] Optimize with NumPy
+
+## Alerts
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 ## Footnotes
 
